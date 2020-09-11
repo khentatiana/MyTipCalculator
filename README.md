@@ -28,9 +28,9 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='https://www.youtube.com/watch?v=ig-ezf1wyZs' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='http://g.recordit.co/5T2u0U9nUX.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
-GIF created with [QuickTimePlayer](https://support.apple.com/downloads/quicktime).
+GIF created with [Recordit](https://recordit.co/).
 
 ## Notes
 
