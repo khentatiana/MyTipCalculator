@@ -30,7 +30,7 @@ Here's a walkthrough of implemented user stories:
 
 <img src='https://www.youtube.com/watch?v=ig-ezf1wyZs' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
-GIF created with [LiceCap](http://www.cockos.com/licecap/).
+GIF created with [QuickTimePlayer](https://support.apple.com/downloads/quicktime).
 
 ## Notes
 
