@@ -7,7 +7,6 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		4180E5E8250B160C002679E9 /* MyTipCalculatorGif.gif in Resources */ = {isa = PBXBuildFile; fileRef = 4180E5E7250B160C002679E9 /* MyTipCalculatorGif.gif */; };
 		419F4B0C250A0ECB005EA046 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 419F4B0B250A0ECB005EA046 /* AppDelegate.swift */; };
 		419F4B0E250A0ECB005EA046 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 419F4B0D250A0ECB005EA046 /* SceneDelegate.swift */; };
 		419F4B10250A0ECB005EA046 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 419F4B0F250A0ECB005EA046 /* ViewController.swift */; };
@@ -36,7 +35,6 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		4180E5E7250B160C002679E9 /* MyTipCalculatorGif.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; name = MyTipCalculatorGif.gif; path = ../../MyTipCalculatorGif.gif; sourceTree = "<group>"; };
 		419F4B08250A0ECB005EA046 /* MyTipCalculator.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = MyTipCalculator.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		419F4B0B250A0ECB005EA046 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		419F4B0D250A0ECB005EA046 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -101,7 +99,6 @@
 		419F4B0A250A0ECB005EA046 /* MyTipCalculator */ = {
 			isa = PBXGroup;
 			children = (
-				4180E5E7250B160C002679E9 /* MyTipCalculatorGif.gif */,
 				419F4B0B250A0ECB005EA046 /* AppDelegate.swift */,
 				419F4B0D250A0ECB005EA046 /* SceneDelegate.swift */,
 				419F4B0F250A0ECB005EA046 /* ViewController.swift */,
@@ -236,7 +233,6 @@
 			buildActionMask = 2147483647;
 			files = (
 				419F4B18250A0ECC005EA046 /* LaunchScreen.storyboard in Resources */,
-				4180E5E8250B160C002679E9 /* MyTipCalculatorGif.gif in Resources */,
 				419F4B15250A0ECC005EA046 /* Assets.xcassets in Resources */,
 				419F4B13250A0ECB005EA046 /* Main.storyboard in Resources */,
 			);
